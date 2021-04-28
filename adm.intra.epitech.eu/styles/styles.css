@@ -1,0 +1,76 @@
+h1 {
+    color : #3aa0ff;
+    text-align: center;
+    border-color: #a8bfdb;
+    border-style: solid;
+    border-width: 3px;
+    background-color: whitesmoke;
+}
+h2
+{
+    margin-left: 15%;
+    margin-right: 15%;
+    color:darkslategray;
+    text-align:left;
+    border-color: darkslategray;
+    text-decoration: underline;
+    text-decoration-color: darkslategray;
+    text-underline-offset: 5px;
+    background-color: whitesmoke;
+}
+h3
+{
+    margin-left: 15%;
+    margin-right: 15%;
+    color:darkslategray;
+    text-align:left;
+    border-color: darkslategray;
+    text-decoration: underline;
+    text-decoration-color: darkslategray;
+    text-underline-offset: 5px;
+    background-color: whitesmoke;
+    font-size: medium;
+}
+body
+{
+    background-color : #2f71df;
+    font-family:  'Arial Narrow Bold', Arial, Impact, sans-serif;
+}
+p
+{
+    margin-right: 15%;
+    margin-left: 15%;
+    background-color: whitesmoke;
+    border-bottom: whitesmoke;
+    border-top: whitesmoke;
+    border-left:darkslategray;
+    border-right: darkslategray;
+}
+text.lorem
+{
+    background-color: whitesmoke;
+    border-bottom: whitesmoke;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+h2.time
+{
+    color:darkslateblue;
+    outline-style: groove;
+    outline-color: darkturquoise;
+    outline-offset: 3px;
+}
+p.error
+{
+    color:rgb(194, 11, 11);
+    font-family: Arial, Helvetica, sans-serif;
+}
+p.success
+{
+    color:rgb(11, 194, 51);
+    font-family: Arial, Helvetica, sans-serif;
+}
+a
+{
+    text-decoration: none;
+}
